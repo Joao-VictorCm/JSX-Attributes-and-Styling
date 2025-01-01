@@ -1,0 +1,9 @@
+.TitleFoods {
+  color: aqua;
+}
+
+.imgs-foods,
+img {
+  width: 100px;
+  height: 100px;
+}
